@@ -78,7 +78,8 @@ plt.show()
         Developed by <strong>Mohammed YOUSUF</strong>. For more information or questions, feel free to 
         <a href="mailto:yousufmohammed9148@gmail.com">contact me</a>.
     </p>
-
+<h2>Acknowledgement</h2>
+ <p>I would like to extend my deepest gratitude to Dr. Victor A.I, professor at Maharaja Institute of Technology Mysore,for his invaluable guidance throughout this project</p>
  
 </body>
 </html>
